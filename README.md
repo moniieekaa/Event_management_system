@@ -66,9 +66,8 @@ in any modern browser.
 
 Watch the project demo here:
 
-[▶️ Demo Video Link](https://www.youtube.com/watch?v=your-demo-link-here)
+[▶️ Demo Video Link](https://github.com/moniieekaa/Event_management_system/blob/89661a208defb545de84cf23a95d9830db82159a/Video%20Demo.mp4)
 
-*(Replace with your actual video URL)*
 
 ---
 
