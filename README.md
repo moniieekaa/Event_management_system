@@ -1,14 +1,8 @@
-Got it! I’ll break down each section clearly and neatly so it looks super professional and easy to read in your README. Here’s a **well-structured, section-by-section README** with clear headings, spacing, and explanations:
-
----
-
-# README.md (clearly formatted)
 
 ```markdown
 # Event Organizer Front-End Website 🎉
 
-A clean, responsive single-page front-end website for event management.  
-Showcases services, previous events, pricing, and organizer profiles using HTML, CSS, and JavaScript.
+A clean, responsive single-page front-end website for event management.Showcases services, previous events, pricing, and organizer profiles using HTML, CSS, and JavaScript.
 
 ---
 
@@ -77,7 +71,7 @@ Watch the full demo of this project here:
 
 ## 🧑‍💼 Author
 
-**Mounika Konala
+## Mounika Konala
 Full Stack Developer | Tech Enthusiast
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/mounika-konala)
@@ -97,19 +91,4 @@ If you have any questions or feedback, feel free to contact me:
 This project is licensed under the **MIT License** — feel free to use and modify it.
 
 ````
-
----
-
-### Git Commands to Push Your Project
-
-```bash
-git init
-git add index.html styles.css script.js images/
-git commit -m "Initial commit: Front-end event organizer website"
-git branch -M main
-git remote add origin https://github.com/your-username/event-organizer-frontend.git
-git push -u origin main
-````
-
----
 
