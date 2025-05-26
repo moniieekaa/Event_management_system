@@ -66,7 +66,7 @@ in any modern browser.
 
 Watch the project demo here:
 
-[![Watch the demo](./assets/thumbnail.png)](./path/to/video.mp4)
+[![Watch the demo](https://github.com/moniieekaa/Event_management_system/blob/1ce07d1e5d2b675fbaf1549c66113da5b2e0834c/Screenshot%202025-05-26%20152012.png)](./path/to/video.mp4)
 
 
 
