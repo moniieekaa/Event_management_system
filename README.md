@@ -1,94 +1,94 @@
+## 📝 **README.md for Event Organizer Front-End Website**
 
-```markdown
-# Event Organizer Front-End Website 🎉
+### 🔧 Prerequisites
 
-A clean, responsive single-page front-end website for event management.Showcases services, previous events, pricing, and organizer profiles using HTML, CSS, and JavaScript.
-
----
-
-## 🔍 Project Overview
-
-This is a **static front-end only** project with no backend or database.  
-It includes the following sections:
-
-- **Homepage**: Introduction & event highlights  
-- **Services**: List of event planning services offered  
-- **Pricing**: Different event package options  
-- **Gallery**: Photos of past events  
-- **Contact**: Static contact form for inquiries  
-- **Organizer Info**: Details about the team
+* A modern web browser (Chrome, Firefox, Edge, etc.)
+* Git (optional, for cloning the repo)
 
 ---
 
-## 📹 Video Demonstration
+### 📦 Installation
 
-Watch the full demo of this project here:  
+#### 1. Clone the repository
 
-[▶️ Watch Demo Video](https://www.youtube.com/watch?v=your-demo-link-here)  
+```bash
+git clone https://github.com/moniieekaa/event-organizer-frontend.git
+cd event-organizer-frontend
+```
 
-> *Replace the above link with your actual video URL*
+#### 2. Open the project
+
+Open the `index.html` file in your preferred web browser.
 
 ---
 
-## 💻 Technologies Used
+### 🚀 How to Run
 
-- **HTML5** (`index.html`)  
-- **CSS3** (`styles.css`)  
-- **JavaScript** (`script.js`)
+No server or backend required. Just open:
+
+```
+index.html
+```
+
+in any modern browser.
+
+---
+
+## ✨ Features
+
+* **Homepage**: Overview of the event organizer’s services and highlights
+* **Services Section**: Detailed description of event planning services offered
+* **Pricing Plans**: Clear presentation of pricing packages
+* **Gallery**: Showcase of previous events with images
+* **Contact Form**: Static form for inquiries (no backend integration)
+* **Organizer Info**: Profiles and details of event organizers
+* **Responsive Design**: Works smoothly on desktops, tablets, and mobiles
+* **Clean UI**: User-friendly, visually appealing layout with easy navigation
 
 ---
 
 ## 📁 Project Structure
 
-```
-
+```bash
 /event-organizer-frontend
 │
 ├── index.html
 ├── styles.css
 ├── script.js
 └── /images
-├── image1.jpg
-└── image2.png
+    ├── image1.jpg
+    └── image2.png
+```
 
-````
+---
+
+## 📹 Video Demonstration
+
+Watch the project demo here:
+
+[▶️ Demo Video Link](https://www.youtube.com/watch?v=your-demo-link-here)
+
+*(Replace with your actual video URL)*
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/event-organizer-frontend.git
-````
-
-2. Open the file `index.html` in any modern web browser.
-
-*No setup or installation required, as this is a static front-end project.*
-
----
 
 ## 🧑‍💼 Author
 
-## Mounika Konala
+**Mounika Konala**
 Full Stack Developer | Tech Enthusiast
-
-🔗 [LinkedIn Profile](https://linkedin.com/in/mounika-konala)
+[LinkedIn Profile](https://linkedin.com/in/mounika-konala)
 
 ---
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to contact me:
-
-📧 [your.email@example.com](mailto:mounikakonala2005@gmail.com)
+📧 [mounikakonala2005@gmail.com](mailto:mounikakonala2005@gmail.com)
 
 ---
 
 ## 📌 License
 
-This project is licensed under the **MIT License** — feel free to use and modify it.
+MIT License — free to use and modify.
 
-````
-
+---
